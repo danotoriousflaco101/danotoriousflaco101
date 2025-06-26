@@ -28,12 +28,11 @@ I'm currently looking to find a job as Junior Java Back End Developer!
 Here are some of the technologies and tools I work with:
 
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,java,js,c,sql,mysql,spring,maven,vscode,postman" />
+  </a>
+</p>
 
 
 * **Languages:** HTML5, CSS, Java, JavaScript, C, SQL
@@ -45,9 +44,7 @@ Here are some of the technologies and tools I work with:
 
 ### GitHub Stats 📈
 
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=danotoriousflaco101&show_icons=true&theme=radical)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danotoriousflaco101&layout=compact&theme=radical)
 
 ---
