@@ -28,7 +28,7 @@ I'm currently looking to find a job as Junior Java Back End Developer!
 Here are some of the technologies and tools I work with:
 
 
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=apple,html,css,java,js,bash,docker,git,github,githubactions,c,mysql,spring,maven,vscode,postman,gmail,hibernate,idea,netlify&perline=10" />
   </a>
@@ -36,9 +36,9 @@ Here are some of the technologies and tools I work with:
 
 
 * **Languages:** HTML5, CSS, Java, JavaScript, C, SQL
-* **Frameworks/Libraries:** Spring Boot
+* **Frameworks/Libraries:** Spring Boot, Maven.
 * **Databases:** MySQL
-* **Tools:** Maven, Office, Postman, Visual Studio Code (VSC)
+* **Tools:** MacOS, Insomnia (or Postman), Visual Studio Code (VSC), INTJ Idea.
 
 ---
 
