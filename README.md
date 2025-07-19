@@ -30,7 +30,7 @@ Here are some of the technologies and tools I work with:
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,java,js,c,sql,mysql,spring,maven,vscode,postman" />
+    <img src="https://skillicons.dev/icons?i=apple,html,css,java,js,bash,docker,git,github,githubactions,sql,mysql,spring,maven,vscode,postman,gmail,hibernate,idea,netlify&perline=10" />
   </a>
 </p>
 
