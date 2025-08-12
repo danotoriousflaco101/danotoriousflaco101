@@ -17,7 +17,7 @@ Of course, i'm currently based in Barcelona at the moment.
 I work as Investigation Specialist in Amazon Spain, supporting the italian market mainly but also any english speaking seller based in the EMEA region. 
 
 I've recently finished an intensive 180 + 40 hrs bootcamp with IronHack for Java Back End Developer. (2025)
-As i'm writing, i'm following a CS50 course from Harvard University in order to improve my general knowledge about computer scinece and i'm also studying basic knowledge of ethical hacking. 
+As i'm writing, i'm following a CS50 course from Harvard University in order to improve my general knowledge about computer scinece and i'm also studying basic knowledge of ethical hacking, Phyton, learning different Apache libraries and more. 
 
 I'm currently looking to find a job as Junior Java Back End Developer!
 
@@ -36,7 +36,7 @@ Here are some of the technologies and tools I work with:
 
 
 * **Languages:** HTML5, CSS, Java, JavaScript, C, SQL
-* **Frameworks/Libraries:** Spring Boot, Maven.
+* **Frameworks/Libraries:** Spring Boot, Maven, Apache.
 * **Databases:** MySQL
 * **Tools:** MacOS, Insomnia (or Postman), Visual Studio Code (VSC), INTJ Idea.
 
