@@ -45,7 +45,7 @@ Here are some of the technologies and tools I work with:
 ### GitHub Stats 📈
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=danotoriousflaco101&show_icons=true&theme=shades-of-purple)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danotoriousflaco101&layout=compact&theme=shades-of-purple&cache_bust=true)
+![Top Langs](https://camo.githubusercontent.com/957ed3e3ec66629362b76bda4838a12022607962b678fed0a8f71951cbacb6c8/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d64616e6f746f72696f7573666c61636f313031266c61796f75743d636f6d70616374267468656d653d7368616465732d6f662d707572706c652663616368655f627573743d74727565)
 
 ---
 
